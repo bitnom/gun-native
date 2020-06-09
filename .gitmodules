@@ -1,0 +1,3 @@
+[submodule "gun_src"]
+	path = gun_src
+	url = https://github.com/amark/gun.git

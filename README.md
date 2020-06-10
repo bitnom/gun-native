@@ -27,3 +27,9 @@ Let's find out if it can deliver or if it can't, how much contribution it might 
 where we need it to be. Each different tech/attempt will live in its own branch.
 
 Nectar branch has been started [here](https://github.com/TensorTom/gun-native/tree/nectar).
+
+#### NECTAR LOG
+
+------------------------
+* 6/9/2020: First basic attempt was had of: `nectar --verbose gun_src/gun.js` Many errors did happen which live in
+[build_debug](build_debug/) and it looks like we have some C output to [njs.h](.nectar/uuuvr/njs.h).

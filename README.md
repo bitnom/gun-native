@@ -24,4 +24,6 @@ to be in active development. Its ways are largely unknown to me but it promises 
 Bytecode. No GC. Just native binaries."
 
 Let's find out if it can deliver or if it can't, how much contribution it might take to catch it up to
-where we need it to be.
+where we need it to be. Each different tech/attempt will live in its own branch.
+
+Nectar branch has been started [here](https://github.com/TensorTom/gun-native/tree/nectar).

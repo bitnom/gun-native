@@ -1,0 +1,876 @@
+[*] Generating source file
+[error] 'R' was used before it was defined. line 5 column 47 in file gun_src/gun.js
+[error] 'R' was used before it was defined. line 7 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 8 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 13 column 57 in file gun_src/gun.js
+[warning] Missing semicolon. line 20 column 72 in file gun_src/gun.js
+[warning] Missing semicolon. line 20 column 75 in file gun_src/gun.js
+[warning] Missing semicolon. line 21 column 85 in file gun_src/gun.js
+[warning] Missing semicolon. line 21 column 88 in file gun_src/gun.js
+[error] 'list_is' was used before it was defined. line 22 column 40 in file gun_src/gun.js
+[warning] Missing semicolon. line 22 column 121 in file gun_src/gun.js
+[warning] Missing semicolon. line 22 column 124 in file gun_src/gun.js
+[warning] Missing semicolon. line 23 column 62 in file gun_src/gun.js
+[warning] Missing semicolon. line 23 column 65 in file gun_src/gun.js
+[warning] Missing semicolon. line 25 column 33 in file gun_src/gun.js
+[warning] Missing semicolon. line 26 column 61 in file gun_src/gun.js
+[warning] Missing semicolon. line 28 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 33 column 74 in file gun_src/gun.js
+[warning] Missing semicolon. line 35 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 37 column 43 in file gun_src/gun.js
+[warning] Missing semicolon. line 38 column 42 in file gun_src/gun.js
+[warning] Missing semicolon. line 41 column 30 in file gun_src/gun.js
+[warning] Missing semicolon. line 42 column 34 in file gun_src/gun.js
+[warning] Missing semicolon. line 44 column 57 in file gun_src/gun.js
+[warning] Missing semicolon. line 45 column 34 in file gun_src/gun.js
+[warning] Missing semicolon. line 49 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 50 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 52 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 54 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 56 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 63 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 64 column 60 in file gun_src/gun.js
+[warning] Missing semicolon. line 64 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 68 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 69 column 25 in file gun_src/gun.js
+[warning] Missing semicolon. line 69 column 51 in file gun_src/gun.js
+[warning] Missing semicolon. line 70 column 20 in file gun_src/gun.js
+[warning] Missing semicolon. line 71 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 72 column 4 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 73 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 73 column 61 in file gun_src/gun.js
+[warning] Missing semicolon. line 73 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 75 column 180 in file gun_src/gun.js
+[warning] Missing semicolon. line 75 column 183 in file gun_src/gun.js
+[warning] Missing semicolon. line 76 column 61 in file gun_src/gun.js
+[warning] Missing semicolon. line 76 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 77 column 88 in file gun_src/gun.js
+[warning] Missing semicolon. line 77 column 90 in file gun_src/gun.js
+[warning] Missing semicolon. line 79 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 83 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 84 column 78 in file gun_src/gun.js
+[warning] Missing semicolon. line 84 column 80 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 86 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 86 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 88 column 18 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 93 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 93 column 49 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 98 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 100 column 5 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 107 column 26 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 107 column 39 in file gun_src/gun.js
+[warning] Missing semicolon. line 107 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 108 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 111 column 24 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 112 column 12 in file gun_src/gun.js
+[warning] Missing semicolon. line 113 column 5 in file gun_src/gun.js
+[warning] 'u' is defined but never used. line 124 column 33 in file gun_src/gun.js
+[warning] Missing semicolon. line 125 column 80 in file gun_src/gun.js
+[warning] Missing semicolon. line 125 column 82 in file gun_src/gun.js
+[warning] Missing semicolon. line 125 column 84 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 129 column 16 in file gun_src/gun.js
+[error] 'list_is' was used before it was defined. line 133 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 139 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 142 column 58 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 148 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 150 column 30 in file gun_src/gun.js
+[warning] Missing semicolon. line 154 column 32 in file gun_src/gun.js
+[warning] Missing semicolon. line 159 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 162 column 84 in file gun_src/gun.js
+[warning] Missing semicolon. line 162 column 86 in file gun_src/gun.js
+[warning] 'fn_is' is assigned a value but never used. line 164 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 173 column 31 in file gun_src/gun.js
+[error] 'tag' is already defined. line 174 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 185 column 47 in file gun_src/gun.js
+[warning] Missing semicolon. line 205 column 50 in file gun_src/gun.js
+[error] 'setImmediate' is not defined. line 211 column 51 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 211 column 66 in file gun_src/gun.js
+[error] 'Q' was used before it was defined. line 212 column 7 in file gun_src/gun.js
+[error] 'Q' was used before it was defined. line 212 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 212 column 36 in file gun_src/gun.js
+[error] 'Q' was used before it was defined. line 212 column 39 in file gun_src/gun.js
+[error] 'Q' was used before it was defined. line 214 column 41 in file gun_src/gun.js
+[warning] Missing semicolon. line 214 column 55 in file gun_src/gun.js
+[warning] Missing semicolon. line 216 column 45 in file gun_src/gun.js
+[error] 'Q' was used before it was defined. line 217 column 10 in file gun_src/gun.js
+[error] 'Q' was used before it was defined. line 217 column 14 in file gun_src/gun.js
+[warning] Missing semicolon. line 217 column 41 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 221 column 20 in file gun_src/gun.js
+[error] 'Lexical' was used before it was defined. line 239 column 21 in file gun_src/gun.js
+[error] 'Lexical' was used before it was defined. line 240 column 20 in file gun_src/gun.js
+[warning] 'undefined' is defined but never used. line 267 column 33 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 275 column 13 in file gun_src/gun.js
+[warning] Missing semicolon. line 275 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 276 column 31 in file gun_src/gun.js
+[warning] Missing semicolon. line 277 column 36 in file gun_src/gun.js
+[error] 'text_is' was used before it was defined. line 278 column 7 in file gun_src/gun.js
+[error] 'bi_is' was used before it was defined. line 279 column 7 in file gun_src/gun.js
+[error] 'num_is' was used before it was defined. line 280 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 284 column 4 in file gun_src/gun.js
+[error] 'rel_' was used before it was defined. line 288 column 15 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 288 column 32 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 290 column 6 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 290 column 17 in file gun_src/gun.js
+[warning] Missing semicolon. line 296 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 298 column 34 in file gun_src/gun.js
+[error] 'rel_' was used before it was defined. line 299 column 13 in file gun_src/gun.js
+[error] 'text_is' was used before it was defined. line 299 column 21 in file gun_src/gun.js
+[error] 'obj_put' was used before it was defined. line 306 column 38 in file gun_src/gun.js
+[error] 'rel_' was used before it was defined. line 306 column 50 in file gun_src/gun.js
+[warning] Missing semicolon. line 306 column 58 in file gun_src/gun.js
+[warning] Missing semicolon. line 306 column 60 in file gun_src/gun.js
+[error] 'soul_' was used before it was defined. line 320 column 60 in file gun_src/gun.js
+[warning] Missing semicolon. line 320 column 67 in file gun_src/gun.js
+[warning] Missing semicolon. line 320 column 69 in file gun_src/gun.js
+[error] 'soul_' was used before it was defined. line 325 column 8 in file gun_src/gun.js
+[error] 'soul_' was used before it was defined. line 325 column 31 in file gun_src/gun.js
+[error] 'text_random' was used before it was defined. line 325 column 41 in file gun_src/gun.js
+[warning] Missing semicolon. line 327 column 4 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 331 column 9 in file gun_src/gun.js
+[warning] Missing semicolon. line 331 column 33 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 333 column 14 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 333 column 25 in file gun_src/gun.js
+[warning] Missing semicolon. line 336 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 338 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 339 column 32 in file gun_src/gun.js
+[warning] Missing semicolon. line 340 column 61 in file gun_src/gun.js
+[warning] Missing semicolon. line 345 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 346 column 50 in file gun_src/gun.js
+[warning] Missing semicolon. line 347 column 50 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 348 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 348 column 61 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 350 column 6 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 350 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 353 column 5 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 358 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 360 column 33 in file gun_src/gun.js
+[error] 'last' was used before it was defined. line 385 column 7 in file gun_src/gun.js
+[error] 'N' was used before it was defined. line 386 column 12 in file gun_src/gun.js
+[error] 'last' was used before it was defined. line 386 column 19 in file gun_src/gun.js
+[error] 'last' was used before it was defined. line 388 column 11 in file gun_src/gun.js
+[error] 'N' was used before it was defined. line 388 column 24 in file gun_src/gun.js
+[error] 'D' was used before it was defined. line 388 column 34 in file gun_src/gun.js
+[warning] 'time' is assigned a value but never used. line 390 column 7 in file gun_src/gun.js
+[error] 'performance' is not defined. line 391 column 53 in file gun_src/gun.js
+[error] 'performance' is not defined. line 391 column 75 in file gun_src/gun.js
+[warning] 'start' is assigned a value but never used. line 391 column 97 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 395 column 27 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 395 column 36 in file gun_src/gun.js
+[warning] Missing semicolon. line 396 column 20 in file gun_src/gun.js
+[error] 'num_is' was used before it was defined. line 397 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 398 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 399 column 70 in file gun_src/gun.js
+[warning] Missing semicolon. line 399 column 72 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 401 column 16 in file gun_src/gun.js
+[error] 'obj_as' was used before it was defined. line 407 column 14 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 407 column 23 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 408 column 7 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 408 column 24 in file gun_src/gun.js
+[error] 'num_is' was used before it was defined. line 409 column 8 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 412 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 417 column 4 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 420 column 7 in file gun_src/gun.js
+[error] 'obj_copy' was used before it was defined. line 421 column 11 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 427 column 13 in file gun_src/gun.js
+[error] 'o' was used before it was defined. line 427 column 20 in file gun_src/gun.js
+[error] 'o' was used before it was defined. line 427 column 34 in file gun_src/gun.js
+[error] 'fn_is' was used before it was defined. line 428 column 10 in file gun_src/gun.js
+[error] 'num_is' was used before it was defined. line 430 column 10 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 431 column 8 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 431 column 16 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 432 column 6 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 432 column 17 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 435 column 16 in file gun_src/gun.js
+[error] 'num_is' was used before it was defined. line 436 column 9 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 439 column 7 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 443 column 9 in file gun_src/gun.js
+[warning] Missing semicolon. line 443 column 44 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 444 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 445 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 446 column 5 in file gun_src/gun.js
+[error] 'N_' was used before it was defined. line 448 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 448 column 25 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 466 column 15 in file gun_src/gun.js
+[error] 'obj_empty' was used before it was defined. line 466 column 28 in file gun_src/gun.js
+[warning] Missing semicolon. line 466 column 55 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 467 column 13 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 467 column 24 in file gun_src/gun.js
+[warning] Missing semicolon. line 468 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 470 column 79 in file gun_src/gun.js
+[warning] Missing semicolon. line 471 column 25 in file gun_src/gun.js
+[error] 'nf' was used before it was defined. line 472 column 5 in file gun_src/gun.js
+[error] 'nf' was used before it was defined. line 472 column 15 in file gun_src/gun.js
+[error] 'nf' was used before it was defined. line 473 column 18 in file gun_src/gun.js
+[error] 'nf' was used before it was defined. line 473 column 31 in file gun_src/gun.js
+[warning] Missing semicolon. line 476 column 37 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 493 column 11 in file gun_src/gun.js
+[error] 'node' was used before it was defined. line 502 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 505 column 5 in file gun_src/gun.js
+[error] 'seen' was used before it was defined. line 507 column 14 in file gun_src/gun.js
+[warning] Missing semicolon. line 507 column 40 in file gun_src/gun.js
+[error] 'soul' was used before it was defined. line 509 column 15 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 510 column 25 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 520 column 24 in file gun_src/gun.js
+[error] 'valid' was used before it was defined. line 523 column 15 in file gun_src/gun.js
+[warning] Missing semicolon. line 523 column 45 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 526 column 9 in file gun_src/gun.js
+[error] 'obj_copy' was used before it was defined. line 527 column 19 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 534 column 9 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 536 column 10 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 537 column 8 in file gun_src/gun.js
+[error] 'valid' was used before it was defined. line 540 column 17 in file gun_src/gun.js
+[warning] Missing semicolon. line 540 column 47 in file gun_src/gun.js
+[warning] Missing semicolon. line 543 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 548 column 26 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 558 column 8 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 560 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 564 column 31 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 565 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 565 column 28 in file gun_src/gun.js
+[warning] Missing semicolon. line 571 column 77 in file gun_src/gun.js
+[warning] Missing semicolon. line 576 column 40 in file gun_src/gun.js
+[warning] Missing semicolon. line 583 column 21 in file gun_src/gun.js
+[error] 'obj_put' was used before it was defined. line 584 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 588 column 23 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 591 column 5 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 591 column 26 in file gun_src/gun.js
+[warning] Missing semicolon. line 593 column 5 in file gun_src/gun.js
+[error] 'obj_empty' was used before it was defined. line 596 column 9 in file gun_src/gun.js
+[error] 'obj_copy' was used before it was defined. line 599 column 20 in file gun_src/gun.js
+[warning] 'fn_is' is assigned a value but never used. line 613 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 623 column 24 in file gun_src/gun.js
+[warning] Missing semicolon. line 625 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 627 column 21 in file gun_src/gun.js
+[error] 'clearTimeout' is not defined. line 629 column 5 in file gun_src/gun.js
+[error] 'id' is already defined. line 632 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 633 column 22 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 635 column 23 in file gun_src/gun.js
+[warning] Missing semicolon. line 640 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 649 column 29 in file gun_src/gun.js
+[error] 'dt' was used before it was defined. line 650 column 12 in file gun_src/gun.js
+[warning] Missing semicolon. line 651 column 5 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 655 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 655 column 60 in file gun_src/gun.js
+[warning] Missing semicolon. line 657 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 661 column 57 in file gun_src/gun.js
+[warning] Missing semicolon. line 666 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 675 column 55 in file gun_src/gun.js
+[warning] Missing semicolon. line 676 column 49 in file gun_src/gun.js
+[warning] Missing semicolon. line 680 column 90 in file gun_src/gun.js
+[warning] Missing semicolon. line 680 column 92 in file gun_src/gun.js
+[error] 'universe' was used before it was defined. line 708 column 18 in file gun_src/gun.js
+[error] 'universe' was used before it was defined. line 709 column 19 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 710 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 716 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 718 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 719 column 56 in file gun_src/gun.js
+[error] 'text_rand' was used before it was defined. line 721 column 43 in file gun_src/gun.js
+[warning] Missing semicolon. line 722 column 31 in file gun_src/gun.js
+[warning] Missing semicolon. line 727 column 40 in file gun_src/gun.js
+[error] 'put' was used before it was defined. line 728 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 728 column 35 in file gun_src/gun.js
+[warning] Missing semicolon. line 737 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 741 column 58 in file gun_src/gun.js
+[error] 'ERR' was used before it was defined. line 751 column 23 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 751 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 751 column 54 in file gun_src/gun.js
+[error] 'ERR' was used before it was defined. line 752 column 33 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 752 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 752 column 64 in file gun_src/gun.js
+[error] '_soul' was used before it was defined. line 753 column 22 in file gun_src/gun.js
+[error] 'ERR' was used before it was defined. line 753 column 37 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 753 column 41 in file gun_src/gun.js
+[warning] Missing semicolon. line 753 column 74 in file gun_src/gun.js
+[error] 'state_' was used before it was defined. line 754 column 24 in file gun_src/gun.js
+[error] 'ERR' was used before it was defined. line 754 column 41 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 754 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 754 column 73 in file gun_src/gun.js
+[error] 'node_' was used before it was defined. line 756 column 10 in file gun_src/gun.js
+[warning] Missing semicolon. line 756 column 34 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 758 column 10 in file gun_src/gun.js
+[error] 'ERR' was used before it was defined. line 758 column 30 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 758 column 34 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 758 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 758 column 76 in file gun_src/gun.js
+[error] 'val_is' was used before it was defined. line 759 column 11 in file gun_src/gun.js
+[error] 'ERR' was used before it was defined. line 759 column 31 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 759 column 35 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 759 column 49 in file gun_src/gun.js
+[error] 'cut' was used before it was defined. line 759 column 79 in file gun_src/gun.js
+[warning] Missing semicolon. line 759 column 94 in file gun_src/gun.js
+[error] 'ham' was used before it was defined. line 760 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 762 column 20 in file gun_src/gun.js
+[warning] Missing semicolon. line 765 column 96 in file gun_src/gun.js
+[warning] Missing semicolon. line 766 column 75 in file gun_src/gun.js
+[error] 'fire' was used before it was defined. line 767 column 28 in file gun_src/gun.js
+[warning] Missing semicolon. line 767 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 768 column 65 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 772 column 33 in file gun_src/gun.js
+[error] 'state_is' was used before it was defined. line 772 column 46 in file gun_src/gun.js
+[error] 'State' was used before it was defined. line 773 column 19 in file gun_src/gun.js
+[error] 'HAM' was used before it was defined. line 773 column 33 in file gun_src/gun.js
+[warning] 'u' is defined but never used. line 773 column 71 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 777 column 7 in file gun_src/gun.js
+[error] 'MD' was used before it was defined. line 779 column 15 in file gun_src/gun.js
+[error] 'MD' was used before it was defined. line 779 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 780 column 59 in file gun_src/gun.js
+[warning] Missing semicolon. line 784 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 792 column 89 in file gun_src/gun.js
+[warning] 'id' is assigned a value but never used. line 793 column 154 in file gun_src/gun.js
+[error] 'state_ify' was used before it was defined. line 794 column 19 in file gun_src/gun.js
+[error] 'chain' was used before it was defined. line 795 column 5 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 795 column 28 in file gun_src/gun.js
+[error] 'state_ify' was used before it was defined. line 797 column 18 in file gun_src/gun.js
+[error] 'fire' was used before it was defined. line 799 column 28 in file gun_src/gun.js
+[warning] Missing semicolon. line 799 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 805 column 76 in file gun_src/gun.js
+[error] 'state_ify' was used before it was defined. line 806 column 47 in file gun_src/gun.js
+[error] 'state_ify' was used before it was defined. line 807 column 15 in file gun_src/gun.js
+[warning] Missing semicolon. line 810 column 24 in file gun_src/gun.js
+[warning] Missing semicolon. line 816 column 49 in file gun_src/gun.js
+[warning] Missing semicolon. line 823 column 33 in file gun_src/gun.js
+[warning] Missing semicolon. line 828 column 64 in file gun_src/gun.js
+[warning] Missing semicolon. line 828 column 66 in file gun_src/gun.js
+[error] 'perf' was used before it was defined. line 835 column 30 in file gun_src/gun.js
+[warning] Missing semicolon. line 835 column 49 in file gun_src/gun.js
+[error] 'verify' was used before it was defined. line 836 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 836 column 85 in file gun_src/gun.js
+[warning] Missing semicolon. line 837 column 77 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 838 column 5 in file gun_src/gun.js
+[error] 'merge' was used before it was defined. line 838 column 22 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 839 column 21 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 839 column 38 in file gun_src/gun.js
+[warning] Missing semicolon. line 839 column 47 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 840 column 8 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 842 column 6 in file gun_src/gun.js
+[error] 'MD' is not defined. line 844 column 14 in file gun_src/gun.js
+[error] 'MD' is not defined. line 844 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 846 column 26 in file gun_src/gun.js
+[error] 'obj_to' was used before it was defined. line 847 column 18 in file gun_src/gun.js
+[warning] 'tmp' is defined but never used. line 850 column 42 in file gun_src/gun.js
+[warning] Missing semicolon. line 851 column 84 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 852 column 37 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 865 column 54 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 867 column 20 in file gun_src/gun.js
+[warning] Missing semicolon. line 879 column 36 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 880 column 5 in file gun_src/gun.js
+[error] 'each' was used before it was defined. line 880 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 881 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 886 column 39 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 888 column 7 in file gun_src/gun.js
+[error] 'patch' was used before it was defined. line 888 column 22 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 889 column 10 in file gun_src/gun.js
+[warning] Missing semicolon. line 889 column 57 in file gun_src/gun.js
+[warning] Missing semicolon. line 889 column 71 in file gun_src/gun.js
+[warning] Missing semicolon. line 890 column 24 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 892 column 7 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 892 column 24 in file gun_src/gun.js
+[warning] 'tmp' is defined but never used. line 899 column 108 in file gun_src/gun.js
+[warning] Missing semicolon. line 901 column 26 in file gun_src/gun.js
+[warning] 'soul' is defined but never used. line 908 column 22 in file gun_src/gun.js
+[warning] Missing semicolon. line 909 column 23 in file gun_src/gun.js
+[warning] Missing semicolon. line 914 column 73 in file gun_src/gun.js
+[error] '_soul' was used before it was defined. line 917 column 49 in file gun_src/gun.js
+[error] '_has' was used before it was defined. line 917 column 92 in file gun_src/gun.js
+[warning] 'tmp' is assigned a value but never used. line 917 column 99 in file gun_src/gun.js
+[warning] Missing semicolon. line 922 column 42 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 924 column 36 in file gun_src/gun.js
+[warning] Missing semicolon. line 924 column 83 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 933 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 948 column 5 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 955 column 9 in file gun_src/gun.js
+[warning] Missing semicolon. line 955 column 31 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 956 column 9 in file gun_src/gun.js
+[warning] Missing semicolon. line 956 column 38 in file gun_src/gun.js
+[error] 'text_is' was used before it was defined. line 957 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 957 column 34 in file gun_src/gun.js
+[error] 'list_is' was used before it was defined. line 958 column 8 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 959 column 12 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 962 column 10 in file gun_src/gun.js
+[warning] Missing semicolon. line 962 column 50 in file gun_src/gun.js
+[error] 'obj_to' was used before it was defined. line 963 column 21 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 966 column 5 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 967 column 10 in file gun_src/gun.js
+[error] 'text' was used before it was defined. line 967 column 30 in file gun_src/gun.js
+[error] 'obj' was used before it was defined. line 967 column 44 in file gun_src/gun.js
+[warning] Missing semicolon. line 967 column 79 in file gun_src/gun.js
+[error] 'list_is' was used before it was defined. line 968 column 43 in file gun_src/gun.js
+[warning] Missing semicolon. line 968 column 62 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 969 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 975 column 5 in file gun_src/gun.js
+[warning] 'obj_empty' is assigned a value but never used. line 981 column 22 in file gun_src/gun.js
+[warning] 'obj_copy' is assigned a value but never used. line 981 column 117 in file gun_src/gun.js
+[warning] 'state_lex' is assigned a value but never used. line 982 column 7 in file gun_src/gun.js
+[warning] 'rel_is' is assigned a value but never used. line 982 column 163 in file gun_src/gun.js
+[warning] Missing semicolon. line 986 column 111 in file gun_src/gun.js
+[warning] Missing semicolon. line 987 column 97 in file gun_src/gun.js
+[error] 'window' is not defined. line 989 column 39 in file gun_src/gun.js
+[error] 'window' is not defined. line 989 column 52 in file gun_src/gun.js
+[error] 'window' is not defined. line 989 column 79 in file gun_src/gun.js
+[warning] Missing semicolon. line 989 column 85 in file gun_src/gun.js
+[warning] Missing semicolon. line 990 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 994 column 125 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1000 column 16 in file gun_src/gun.js
+[error] 'tmp' is already defined. line 1015 column 30 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1017 column 18 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1019 column 8 in file gun_src/gun.js
+[error] 'tmp' is already defined. line 1028 column 14 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1030 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 1037 column 4 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1041 column 16 in file gun_src/gun.js
+[error] 'input' was used before it was defined. line 1052 column 17 in file gun_src/gun.js
+[error] 'output' was used before it was defined. line 1053 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 1055 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1059 column 28 in file gun_src/gun.js
+[error] 'obj_to' was used before it was defined. line 1066 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 1066 column 50 in file gun_src/gun.js
+[error] 'text_rand' was used before it was defined. line 1069 column 30 in file gun_src/gun.js
+[warning] Missing semicolon. line 1073 column 30 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 1074 column 10 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1077 column 17 in file gun_src/gun.js
+[warning] Missing semicolon. line 1077 column 40 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 1080 column 9 in file gun_src/gun.js
+[warning] Missing semicolon. line 1082 column 41 in file gun_src/gun.js
+[warning] Missing semicolon. line 1088 column 22 in file gun_src/gun.js
+[error] 'put' is already defined. line 1091 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 1093 column 43 in file gun_src/gun.js
+[warning] Missing semicolon. line 1095 column 9 in file gun_src/gun.js
+[warning] Missing semicolon. line 1098 column 59 in file gun_src/gun.js
+[warning] Missing semicolon. line 1102 column 50 in file gun_src/gun.js
+[warning] Missing semicolon. line 1103 column 27 in file gun_src/gun.js
+[error] 'ack' was used before it was defined. line 1107 column 15 in file gun_src/gun.js
+[warning] Missing semicolon. line 1110 column 74 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1134 column 75 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1134 column 87 in file gun_src/gun.js
+[error] 'obj_to' was used before it was defined. line 1136 column 11 in file gun_src/gun.js
+[error] 'obj_to' was used before it was defined. line 1139 column 11 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1145 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 1148 column 25 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1149 column 8 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1149 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 1149 column 42 in file gun_src/gun.js
+[error] 'echo' was used before it was defined. line 1150 column 5 in file gun_src/gun.js
+[error] 'not' was used before it was defined. line 1152 column 6 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1154 column 5 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1155 column 5 in file gun_src/gun.js
+[error] 'echo' was used before it was defined. line 1160 column 5 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1161 column 19 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 1161 column 35 in file gun_src/gun.js
+[warning] Missing semicolon. line 1161 column 61 in file gun_src/gun.js
+[error] 'not' was used before it was defined. line 1167 column 7 in file gun_src/gun.js
+[error] 'echo' was used before it was defined. line 1175 column 6 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 1178 column 33 in file gun_src/gun.js
+[error] 'relate' was used before it was defined. line 1188 column 5 in file gun_src/gun.js
+[error] 'echo' was used before it was defined. line 1189 column 5 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1190 column 19 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 1190 column 35 in file gun_src/gun.js
+[warning] Missing semicolon. line 1190 column 61 in file gun_src/gun.js
+[warning] 'was' is assigned a value but never used. line 1193 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 1200 column 21 in file gun_src/gun.js
+[error] 'relate' was used before it was defined. line 1202 column 4 in file gun_src/gun.js
+[error] 'echo' was used before it was defined. line 1203 column 4 in file gun_src/gun.js
+[error] 'node_' was used before it was defined. line 1207 column 15 in file gun_src/gun.js
+[warning] Missing semicolon. line 1207 column 40 in file gun_src/gun.js
+[warning] Missing semicolon. line 1215 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 1216 column 26 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1218 column 27 in file gun_src/gun.js
+[error] 'not' was used before it was defined. line 1219 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 1228 column 55 in file gun_src/gun.js
+[warning] Missing semicolon. line 1228 column 58 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1229 column 5 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1231 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 1231 column 38 in file gun_src/gun.js
+[warning] Missing semicolon. line 1232 column 29 in file gun_src/gun.js
+[error] 'ask' was used before it was defined. line 1233 column 4 in file gun_src/gun.js
+[warning] 'ev' is defined but never used. line 1235 column 26 in file gun_src/gun.js
+[warning] Missing semicolon. line 1236 column 24 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1238 column 4 in file gun_src/gun.js
+[error] 'reverb' was used before it was defined. line 1238 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 1241 column 29 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1245 column 43 in file gun_src/gun.js
+[error] 'node_' was used before it was defined. line 1246 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 1246 column 43 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1255 column 8 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1262 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 1274 column 36 in file gun_src/gun.js
+[warning] 'root' is assigned a value but never used. line 1275 column 22 in file gun_src/gun.js
+[warning] Missing semicolon. line 1278 column 46 in file gun_src/gun.js
+[warning] Missing semicolon. line 1283 column 44 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1286 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 1286 column 52 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1287 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1288 column 36 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1289 column 5 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1292 column 4 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1293 column 8 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1293 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 1293 column 47 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1294 column 16 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1301 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 1310 column 24 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1313 column 4 in file gun_src/gun.js
+[warning] 'ev' is defined but never used. line 1319 column 21 in file gun_src/gun.js
+[error] 'obj_has' was used before it was defined. line 1322 column 52 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1323 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 1323 column 29 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1326 column 20 in file gun_src/gun.js
+[error] 'node_' was used before it was defined. line 1332 column 7 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1337 column 32 in file gun_src/gun.js
+[warning] 'obj_put' is assigned a value but never used. line 1342 column 41 in file gun_src/gun.js
+[warning] '_soul' is assigned a value but never used. line 1344 column 7 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1347 column 16 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1353 column 28 in file gun_src/gun.js
+[error] 'cache' was used before it was defined. line 1355 column 12 in file gun_src/gun.js
+[error] 'soul' was used before it was defined. line 1360 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 1360 column 58 in file gun_src/gun.js
+[error] 'tmp' is already defined. line 1362 column 37 in file gun_src/gun.js
+[error] 'use' was used before it was defined. line 1368 column 23 in file gun_src/gun.js
+[error] 'rid' was used before it was defined. line 1368 column 39 in file gun_src/gun.js
+[error] 'num_is' was used before it was defined. line 1376 column 7 in file gun_src/gun.js
+[error] 'rel' was used before it was defined. line 1379 column 13 in file gun_src/gun.js
+[error] 'obj' was used before it was defined. line 1382 column 7 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1384 column 33 in file gun_src/gun.js
+[warning] Missing semicolon. line 1384 column 72 in file gun_src/gun.js
+[warning] Missing semicolon. line 1389 column 34 in file gun_src/gun.js
+[warning] Missing semicolon. line 1399 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1402 column 35 in file gun_src/gun.js
+[warning] Missing semicolon. line 1417 column 70 in file gun_src/gun.js
+[warning] Missing semicolon. line 1418 column 46 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1421 column 8 in file gun_src/gun.js
+[error] 'at' was used before it was defined. line 1425 column 16 in file gun_src/gun.js
+[error] 'at' was used before it was defined. line 1425 column 31 in file gun_src/gun.js
+[warning] 'id' is assigned a value but never used. line 1429 column 22 in file gun_src/gun.js
+[error] 'rel' was used before it was defined. line 1430 column 42 in file gun_src/gun.js
+[error] 'node_soul' was used before it was defined. line 1430 column 61 in file gun_src/gun.js
+[warning] Missing semicolon. line 1437 column 72 in file gun_src/gun.js
+[warning] Missing semicolon. line 1447 column 69 in file gun_src/gun.js
+[error] 'rel' was used before it was defined. line 1449 column 27 in file gun_src/gun.js
+[error] 'rel' was used before it was defined. line 1449 column 44 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1451 column 8 in file gun_src/gun.js
+[error] 'obj_to' was used before it was defined. line 1452 column 12 in file gun_src/gun.js
+[warning] Missing semicolon. line 1457 column 24 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1458 column 8 in file gun_src/gun.js
+[error] 'rel' was used before it was defined. line 1458 column 23 in file gun_src/gun.js
+[warning] Missing semicolon. line 1469 column 53 in file gun_src/gun.js
+[warning] Missing semicolon. line 1470 column 59 in file gun_src/gun.js
+[warning] 'map' is assigned a value but never used. line 1471 column 8 in file gun_src/gun.js
+[warning] 'tmp' is assigned a value but never used. line 1471 column 23 in file gun_src/gun.js
+[warning] Missing semicolon. line 1473 column 69 in file gun_src/gun.js
+[warning] 'obj_map' is assigned a value but never used. line 1480 column 22 in file gun_src/gun.js
+[warning] 'obj_has' is assigned a value but never used. line 1480 column 41 in file gun_src/gun.js
+[warning] 'node_' is assigned a value but never used. line 1482 column 54 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1486 column 16 in file gun_src/gun.js
+[warning] 'ctx' is assigned a value but never used. line 1489 column 52 in file gun_src/gun.js
+[warning] 'M' is assigned a value but never used. line 1489 column 66 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 1502 column 9 in file gun_src/gun.js
+[error] 'noop' was used before it was defined. line 1503 column 15 in file gun_src/gun.js
+[warning] Missing semicolon. line 1504 column 26 in file gun_src/gun.js
+[warning] Missing semicolon. line 1511 column 35 in file gun_src/gun.js
+[error] 'ify' was used before it was defined. line 1518 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 1532 column 61 in file gun_src/gun.js
+[error] 'obj_put' was used before it was defined. line 1535 column 15 in file gun_src/gun.js
+[error] 'any' was used before it was defined. line 1539 column 15 in file gun_src/gun.js
+[error] 'stun' was used before it was defined. line 1542 column 24 in file gun_src/gun.js
+[error] 'batch' was used before it was defined. line 1557 column 15 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 1558 column 55 in file gun_src/gun.js
+[error] 'noop' was used before it was defined. line 1562 column 14 in file gun_src/gun.js
+[warning] Missing semicolon. line 1563 column 25 in file gun_src/gun.js
+[warning] Missing semicolon. line 1570 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 1573 column 23 in file gun_src/gun.js
+[error] 'obj_empty' was used before it was defined. line 1586 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 1586 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 1587 column 49 in file gun_src/gun.js
+[warning] Missing semicolon. line 1592 column 31 in file gun_src/gun.js
+[error] 'acks' was used before it was defined. line 1593 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 1593 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 1594 column 25 in file gun_src/gun.js
+[error] 'obj' was used before it was defined. line 1603 column 29 in file gun_src/gun.js
+[error] 'obj' was used before it was defined. line 1608 column 25 in file gun_src/gun.js
+[warning] Missing semicolon. line 1612 column 24 in file gun_src/gun.js
+[warning] 'no' is defined but never used. line 1613 column 14 in file gun_src/gun.js
+[warning] 'k' is defined but never used. line 1613 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 1613 column 41 in file gun_src/gun.js
+[warning] Missing semicolon. line 1617 column 36 in file gun_src/gun.js
+[error] 'iife' was used before it was defined. line 1618 column 13 in file gun_src/gun.js
+[warning] 'opt' is assigned a value but never used. line 1619 column 39 in file gun_src/gun.js
+[warning] Missing semicolon. line 1624 column 20 in file gun_src/gun.js
+[error] 'soul' was used before it was defined. line 1633 column 13 in file gun_src/gun.js
+[warning] 'G' is assigned a value but never used. line 1637 column 7 in file gun_src/gun.js
+[error] 'as' is already defined. line 1639 column 8 in file gun_src/gun.js
+[warning] 'path' is assigned a value but never used. line 1639 column 20 in file gun_src/gun.js
+[warning] Missing semicolon. line 1641 column 55 in file gun_src/gun.js
+[warning] Missing semicolon. line 1646 column 147 in file gun_src/gun.js
+[warning] Missing semicolon. line 1649 column 28 in file gun_src/gun.js
+[warning] Missing semicolon. line 1652 column 34 in file gun_src/gun.js
+[error] 'solve' was used before it was defined. line 1653 column 6 in file gun_src/gun.js
+[error] 'solve' was used before it was defined. line 1657 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1669 column 34 in file gun_src/gun.js
+[warning] 'root' is defined but never used. line 1674 column 57 in file gun_src/gun.js
+[warning] Missing semicolon. line 1675 column 43 in file gun_src/gun.js
+[warning] Missing semicolon. line 1676 column 28 in file gun_src/gun.js
+[error] 'obj_put' was used before it was defined. line 1684 column 15 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1687 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 1688 column 46 in file gun_src/gun.js
+[warning] Missing semicolon. line 1691 column 56 in file gun_src/gun.js
+[error] 'obj_put' was used before it was defined. line 1692 column 17 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 1702 column 19 in file gun_src/gun.js
+[error] 'node_' was used before it was defined. line 1706 column 9 in file gun_src/gun.js
+[error] 'empty' was used before it was defined. line 1707 column 26 in file gun_src/gun.js
+[warning] Missing semicolon. line 1713 column 57 in file gun_src/gun.js
+[warning] 'obj_map' is assigned a value but never used. line 1721 column 58 in file gun_src/gun.js
+[warning] Missing semicolon. line 1722 column 84 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1735 column 16 in file gun_src/gun.js
+[warning] 'tmp' is defined but never used. line 1738 column 32 in file gun_src/gun.js
+[warning] 'off' is defined but never used. line 1738 column 42 in file gun_src/gun.js
+[warning] Missing semicolon. line 1740 column 32 in file gun_src/gun.js
+[error] 'ok' was used before it was defined. line 1752 column 12 in file gun_src/gun.js
+[warning] Missing semicolon. line 1754 column 4 in file gun_src/gun.js
+[warning] 'cat' is assigned a value but never used. line 1757 column 71 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1758 column 7 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1763 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 1787 column 4 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1790 column 21 in file gun_src/gun.js
+[error] 'noop' was used before it was defined. line 1791 column 12 in file gun_src/gun.js
+[error] 'val' was used before it was defined. line 1798 column 13 in file gun_src/gun.js
+[warning] Missing semicolon. line 1809 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1812 column 33 in file gun_src/gun.js
+[warning] 'cat' is assigned a value but never used. line 1813 column 23 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1816 column 8 in file gun_src/gun.js
+[error] 'clearTimeout' is not defined. line 1820 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 1820 column 65 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1823 column 14 in file gun_src/gun.js
+[warning] Missing semicolon. line 1823 column 121 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1824 column 16 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1825 column 8 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 1826 column 36 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1831 column 15 in file gun_src/gun.js
+[error] 'rel' was used before it was defined. line 1831 column 40 in file gun_src/gun.js
+[warning] Missing semicolon. line 1831 column 84 in file gun_src/gun.js
+[warning] Missing semicolon. line 1840 column 20 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1844 column 6 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1850 column 5 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1853 column 5 in file gun_src/gun.js
+[error] 'obj_del' was used before it was defined. line 1856 column 5 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1859 column 5 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1866 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 1872 column 4 in file gun_src/gun.js
+[warning] 'obj_has' is assigned a value but never used. line 1873 column 41 in file gun_src/gun.js
+[warning] 'obj_to' is assigned a value but never used. line 1873 column 79 in file gun_src/gun.js
+[warning] 'empty' is assigned a value but never used. line 1875 column 7 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1878 column 16 in file gun_src/gun.js
+[warning] 'opt' is defined but never used. line 1880 column 32 in file gun_src/gun.js
+[warning] 't' is defined but never used. line 1880 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 1883 column 39 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 1886 column 18 in file gun_src/gun.js
+[error] 'noop' was used before it was defined. line 1892 column 21 in file gun_src/gun.js
+[error] 'u' was used before it was defined. line 1893 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 1893 column 27 in file gun_src/gun.js
+[warning] Missing semicolon. line 1894 column 51 in file gun_src/gun.js
+[warning] Missing semicolon. line 1895 column 54 in file gun_src/gun.js
+[warning] Missing semicolon. line 1899 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1901 column 65 in file gun_src/gun.js
+[warning] Missing semicolon. line 1902 column 31 in file gun_src/gun.js
+[error] 'obj_map' was used before it was defined. line 1903 column 4 in file gun_src/gun.js
+[error] 'each' was used before it was defined. line 1903 column 21 in file gun_src/gun.js
+[error] 'n_' was used before it was defined. line 1907 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 1907 column 24 in file gun_src/gun.js
+[warning] Missing semicolon. line 1909 column 70 in file gun_src/gun.js
+[warning] 'event' is assigned a value but never used. line 1912 column 51 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1915 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 1921 column 88 in file gun_src/gun.js
+[error] 'uuid' was used before it was defined. line 1925 column 44 in file gun_src/gun.js
+[error] 'uuid' was used before it was defined. line 1927 column 28 in file gun_src/gun.js
+[warning] Missing semicolon. line 1930 column 94 in file gun_src/gun.js
+[warning] Missing semicolon. line 1930 column 105 in file gun_src/gun.js
+[warning] Missing semicolon. line 1931 column 104 in file gun_src/gun.js
+[warning] Missing semicolon. line 1935 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1936 column 63 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 1939 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 1940 column 41 in file gun_src/gun.js
+[warning] 'root' is defined but never used. line 1942 column 7 in file gun_src/gun.js
+[warning] 'u' is defined but never used. line 1942 column 41 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1943 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 1943 column 46 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1945 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 1946 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 1946 column 86 in file gun_src/gun.js
+[warning] Missing semicolon. line 1946 column 124 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1953 column 3 in file gun_src/gun.js
+[warning] Missing semicolon. line 1957 column 39 in file gun_src/gun.js
+[warning] Missing semicolon. line 1958 column 56 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1960 column 14 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1961 column 16 in file gun_src/gun.js
+[warning] 'go' is defined but never used. line 1961 column 39 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1964 column 16 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1965 column 5 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1966 column 6 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1967 column 20 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 1970 column 5 in file gun_src/gun.js
+[error] 'ack' was used before it was defined. line 1972 column 47 in file gun_src/gun.js
+[warning] Missing semicolon. line 1977 column 23 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1978 column 8 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1980 column 6 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 1980 column 34 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 1981 column 20 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 1981 column 31 in file gun_src/gun.js
+[warning] Missing semicolon. line 1981 column 52 in file gun_src/gun.js
+[error] 'ack' was used before it was defined. line 1985 column 19 in file gun_src/gun.js
+[warning] Missing semicolon. line 1988 column 35 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 1990 column 5 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1991 column 6 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 1992 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 1993 column 30 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 2000 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 2007 column 5 in file gun_src/gun.js
+[error] 'clearTimeout' is not defined. line 2009 column 5 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2012 column 16 in file gun_src/gun.js
+[error] 'err' is not defined. line 2012 column 24 in file gun_src/gun.js
+[warning] Missing semicolon. line 2012 column 58 in file gun_src/gun.js
+[warning] Missing semicolon. line 2013 column 5 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2016 column 3 in file gun_src/gun.js
+[warning] Missing semicolon. line 2019 column 25 in file gun_src/gun.js
+[warning] Missing semicolon. line 2020 column 42 in file gun_src/gun.js
+[warning] 'graph' is assigned a value but never used. line 2022 column 8 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2023 column 15 in file gun_src/gun.js
+[warning] 'lS' is assigned a value but never used. line 2024 column 8 in file gun_src/gun.js
+[warning] 'u' is defined but never used. line 2024 column 27 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2030 column 18 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 2034 column 13 in file gun_src/gun.js
+[warning] Missing semicolon. line 2036 column 19 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2037 column 10 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 2037 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 2044 column 43 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2049 column 13 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2052 column 40 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2054 column 5 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2054 column 16 in file gun_src/gun.js
+[warning] 'map' is assigned a value but never used. line 2057 column 8 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2058 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 2059 column 5 in file gun_src/gun.js
+[error] 'clearTimeout' is not defined. line 2064 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2068 column 26 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2071 column 6 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2074 column 17 in file gun_src/gun.js
+[warning] Missing semicolon. line 2074 column 50 in file gun_src/gun.js
+[error] 'Gun' is not defined. line 2075 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2077 column 43 in file gun_src/gun.js
+[warning] Missing semicolon. line 2078 column 65 in file gun_src/gun.js
+[warning] Missing semicolon. line 2086 column 5 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2100 column 15 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2100 column 34 in file gun_src/gun.js
+[warning] Missing semicolon. line 2105 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 2106 column 91 in file gun_src/gun.js
+[warning] 'hash' is defined but never used. line 2107 column 18 in file gun_src/gun.js
+[warning] Missing semicolon. line 2108 column 58 in file gun_src/gun.js
+[warning] Missing semicolon. line 2110 column 31 in file gun_src/gun.js
+[warning] Missing semicolon. line 2110 column 75 in file gun_src/gun.js
+[warning] Missing semicolon. line 2112 column 22 in file gun_src/gun.js
+[warning] Missing semicolon. line 2118 column 66 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 2122 column 7 in file gun_src/gun.js
+[warning] Missing semicolon. line 2123 column 30 in file gun_src/gun.js
+[error] 'obj_is' was used before it was defined. line 2128 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 2130 column 57 in file gun_src/gun.js
+[warning] Missing semicolon. line 2131 column 22 in file gun_src/gun.js
+[warning] Missing semicolon. line 2132 column 49 in file gun_src/gun.js
+[warning] Missing semicolon. line 2134 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 2135 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 2160 column 5 in file gun_src/gun.js
+[warning] 'tomap' is assigned a value but never used. line 2161 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 2161 column 41 in file gun_src/gun.js
+[warning] 'noop' is assigned a value but never used. line 2162 column 8 in file gun_src/gun.js
+[warning] 'each' is defined but never used. line 2168 column 14 in file gun_src/gun.js
+[warning] Missing semicolon. line 2168 column 49 in file gun_src/gun.js
+[warning] Missing semicolon. line 2170 column 67 in file gun_src/gun.js
+[warning] Missing semicolon. line 2171 column 28 in file gun_src/gun.js
+[warning] 'hash' is defined but never used. line 2172 column 14 in file gun_src/gun.js
+[warning] Missing semicolon. line 2173 column 73 in file gun_src/gun.js
+[warning] Missing semicolon. line 2175 column 63 in file gun_src/gun.js
+[warning] Missing semicolon. line 2190 column 138 in file gun_src/gun.js
+[warning] Missing semicolon. line 2195 column 49 in file gun_src/gun.js
+[warning] Missing semicolon. line 2197 column 56 in file gun_src/gun.js
+[warning] 'P' is assigned a value but never used. line 2198 column 11 in file gun_src/gun.js
+[warning] Missing semicolon. line 2204 column 35 in file gun_src/gun.js
+[warning] Missing semicolon. line 2210 column 30 in file gun_src/gun.js
+[warning] Missing semicolon. line 2217 column 50 in file gun_src/gun.js
+[warning] Missing semicolon. line 2218 column 34 in file gun_src/gun.js
+[warning] Missing semicolon. line 2219 column 41 in file gun_src/gun.js
+[warning] Missing semicolon. line 2220 column 101 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 2228 column 7 in file gun_src/gun.js
+[error] 'S' is already defined. line 2232 column 10 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2233 column 6 in file gun_src/gun.js
+[error] 'flush' was used before it was defined. line 2235 column 7 in file gun_src/gun.js
+[error] 'send' was used before it was defined. line 2237 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 2238 column 6 in file gun_src/gun.js
+[warning] 'l' is defined but never used. line 2243 column 55 in file gun_src/gun.js
+[warning] Missing semicolon. line 2244 column 22 in file gun_src/gun.js
+[warning] Missing semicolon. line 2246 column 21 in file gun_src/gun.js
+[warning] Missing semicolon. line 2247 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 2249 column 60 in file gun_src/gun.js
+[warning] Missing semicolon. line 2250 column 21 in file gun_src/gun.js
+[error] 'send' was used before it was defined. line 2251 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2270 column 25 in file gun_src/gun.js
+[warning] 'put' is defined but never used. line 2271 column 32 in file gun_src/gun.js
+[warning] 'hash' is defined but never used. line 2271 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 2272 column 36 in file gun_src/gun.js
+[warning] Missing semicolon. line 2273 column 44 in file gun_src/gun.js
+[error] '$' was used before it was defined. line 2279 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 2289 column 65 in file gun_src/gun.js
+[warning] Missing semicolon. line 2291 column 6 in file gun_src/gun.js
+[warning] '_' is assigned a value but never used. line 2292 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 2306 column 50 in file gun_src/gun.js
+[warning] Missing semicolon. line 2313 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2318 column 5 in file gun_src/gun.js
+[warning] 'peer' is defined but never used. line 2319 column 35 in file gun_src/gun.js
+[warning] Missing semicolon. line 2319 column 68 in file gun_src/gun.js
+[warning] Missing semicolon. line 2319 column 70 in file gun_src/gun.js
+[warning] Missing semicolon. line 2322 column 39 in file gun_src/gun.js
+[warning] Missing semicolon. line 2323 column 26 in file gun_src/gun.js
+[warning] Missing semicolon. line 2327 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2345 column 34 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2346 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2346 column 44 in file gun_src/gun.js
+[warning] Missing semicolon. line 2349 column 48 in file gun_src/gun.js
+[warning] Missing semicolon. line 2350 column 26 in file gun_src/gun.js
+[warning] Missing semicolon. line 2354 column 7 in file gun_src/gun.js
+[error] 'sort' was used before it was defined. line 2364 column 37 in file gun_src/gun.js
+[warning] Missing semicolon. line 2364 column 52 in file gun_src/gun.js
+[warning] Missing semicolon. line 2366 column 5 in file gun_src/gun.js
+[warning] Missing semicolon. line 2369 column 41 in file gun_src/gun.js
+[error] 'map' was used before it was defined. line 2371 column 41 in file gun_src/gun.js
+[warning] 'it' is defined but never used. line 2382 column 12 in file gun_src/gun.js
+[warning] Missing semicolon. line 2382 column 62 in file gun_src/gun.js
+[warning] 'empty' is assigned a value but never used. line 2384 column 8 in file gun_src/gun.js
+[warning] 'ok' is assigned a value but never used. line 2384 column 20 in file gun_src/gun.js
+[warning] 'u' is defined but never used. line 2384 column 31 in file gun_src/gun.js
+[warning] 'obj_map' is assigned a value but never used. line 2385 column 29 in file gun_src/gun.js
+[warning] Missing semicolon. line 2387 column 30 in file gun_src/gun.js
+[warning] 'module' is defined but never used. line 2391 column 16 in file gun_src/gun.js
+[warning] Missing semicolon. line 2398 column 25 in file gun_src/gun.js
+[warning] Missing semicolon. line 2399 column 39 in file gun_src/gun.js
+[error] 'window' is not defined. line 2402 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 2402 column 51 in file gun_src/gun.js
+[error] 'global' is not defined. line 2403 column 45 in file gun_src/gun.js
+[warning] Missing semicolon. line 2403 column 51 in file gun_src/gun.js
+[warning] Missing semicolon. line 2407 column 26 in file gun_src/gun.js
+[warning] 'wire' is assigned a value but never used. line 2412 column 8 in file gun_src/gun.js
+[error] 'open' was used before it was defined. line 2413 column 27 in file gun_src/gun.js
+[error] 'wire' was used before it was defined. line 2415 column 36 in file gun_src/gun.js
+[error] 'wire' was used before it was defined. line 2415 column 44 in file gun_src/gun.js
+[warning] Missing semicolon. line 2415 column 54 in file gun_src/gun.js
+[error] 'reconnect' was used before it was defined. line 2420 column 6 in file gun_src/gun.js
+[warning] 'error' is defined but never used. line 2422 column 29 in file gun_src/gun.js
+[error] 'reconnect' was used before it was defined. line 2423 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 2427 column 6 in file gun_src/gun.js
+[warning] Missing semicolon. line 2429 column 22 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2435 column 4 in file gun_src/gun.js
+[warning] Missing semicolon. line 2435 column 53 in file gun_src/gun.js
+[error] 'clearTimeout' is not defined. line 2439 column 5 in file gun_src/gun.js
+[error] 'doc' was used before it was defined. line 2440 column 8 in file gun_src/gun.js
+[warning] Missing semicolon. line 2440 column 39 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2441 column 18 in file gun_src/gun.js
+[error] 'doc' was used before it was defined. line 2442 column 9 in file gun_src/gun.js
+[error] 'doc' was used before it was defined. line 2442 column 16 in file gun_src/gun.js
+[error] 'setTimeout' is not defined. line 2442 column 36 in file gun_src/gun.js
+[warning] Missing semicolon. line 2442 column 55 in file gun_src/gun.js
+[error] 'document' is not defined. line 2446 column 49 in file gun_src/gun.js
+[warning] 'noop' is assigned a value but never used. line 2448 column 7 in file gun_src/gun.js

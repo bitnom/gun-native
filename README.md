@@ -12,7 +12,7 @@ or a Javascript engine. What if we had a native library?
 There are a few different ways to go about this, in order of difficulty (Most to least):
 
 * Port Gun to an entirely separate language that compiles natively (C, Nim, Rust, Go, etc.).
-* Port Gun to NativeScript.
+* Port Gun to TypeScript.
 * Use a Javascript compiler or JS to \<SomethingNative> transpiler.
 
 We will therefor work up this list, from bottom to top, until success is had.

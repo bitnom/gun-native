@@ -28,7 +28,7 @@ Nectar branch has been started [here](https://github.com/TensorTom/gun-native/tr
 
 Python isn't primarily a "Native" language. However, If we can get Gun transpiled to Python, we should then be able to (With a bit extra work) compile that to a native library. Even before that, having Gun in Python would be a great start. While there exists [pygundb](https://github.com/xmonader/pygundb) (A huge thanks to xmonader for that), I also couldn't help but realize how much better it would be to not rely on just pushing data to a separate running Gun server via websockets. We need implementations in other languages.
 
-In this repo we now have `gun.py`. Let's see an exerpt:
+In this repo we now have `gun.py` (Branch [here](https://github.com/TensorTom/gun-native/tree/python). Let's see an exerpt:
 
 
 ```

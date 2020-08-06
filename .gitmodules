@@ -1,3 +1,6 @@
 [submodule "gun_src"]
 	path = gun_src
 	url = https://github.com/amark/gun.git
+[submodule "superPeer"]
+	path = superPeer
+	url = https://github.com/TensorTom/superPeer.git

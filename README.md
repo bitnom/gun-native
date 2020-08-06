@@ -24,7 +24,7 @@ where we need it to be. Each different tech/attempt will live in its own branch.
 
 Nectar branch has been started [here](https://github.com/TensorTom/gun-native/tree/nectar).
 
-## Attempt #2 - Js2Py
+## Attempt #2 - Js2Py (Some Success!)
 
 Python isn't primarily a "Native" language. However, If we can get Gun transpiled to Python, we should then be able to (With a bit extra work) compile that to a native library. Even before that, having Gun in Python would be a great start. While there exists [pygundb](https://github.com/xmonader/pygundb) (A huge thanks to xmonader for that), I also couldn't help but realize how much better it would be to not rely on just pushing data to a separate running Gun server via websockets. We need implementations in other languages.
 
@@ -43,6 +43,12 @@ and from this we can see the message:
 Hello wonderful person! :) Thanks for using GUN, please ask for help on http://chat.gun.eco if anything takes you longer than 5min to figure out!
 ```
 
-yay! The war is not yet won though. I'm having trouble sucessfully executing puts and then gets. However, when I execute them, I do see that Gun has returned all the heap of stuff involved in a Gun object. This will take more research. Help is welcome.
+yay! The war is not yet won though. I'm having trouble sucessfully executing puts and then gets. However, when I
+execute them, I do see that Gun has returned all the heap of stuff involved in a Gun object. This will take more
+research.
+
+![debug](http://i.imgur.com/nebYtjJ.png)
+
+Help is welcome.
 
 

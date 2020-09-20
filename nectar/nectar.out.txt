@@ -1,0 +1,60 @@
+[*] Generating source file
+[error] 'tag' is already defined. line 172 column 11 in file gun.js
+[warning] 'undefined' is defined but never used. line 251 column 33 in file gun.js
+[warning] 'start' is assigned a value but never used. line 375 column 97 in file gun.js
+[warning] 'fn_is' is assigned a value but never used. line 593 column 7 in file gun.js
+[error] 'id' is already defined. line 612 column 8 in file gun.js
+[warning] 'tmp' is defined but never used. line 742 column 42 in file gun.js
+[warning] 'tmp' is defined but never used. line 791 column 108 in file gun.js
+[warning] 'soul' is defined but never used. line 800 column 22 in file gun.js
+[warning] 'tmp' is assigned a value but never used. line 821 column 5 in file gun.js
+[warning] 'obj_copy' is assigned a value but never used. line 857 column 94 in file gun.js
+[warning] 'node_' is assigned a value but never used. line 858 column 70 in file gun.js
+[warning] 'rel_is' is assigned a value but never used. line 858 column 90 in file gun.js
+[warning] 'module' is defined but never used. line 887 column 16 in file gun.js
+[error] 'tmp' is already defined. line 902 column 30 in file gun.js
+[error] 'tmp' is already defined. line 915 column 14 in file gun.js
+[warning] 'module' is defined but never used. line 928 column 16 in file gun.js
+[error] 'put' is already defined. line 978 column 11 in file gun.js
+[warning] 'was' is assigned a value but never used. line 1074 column 8 in file gun.js
+[warning] 'ev' is defined but never used. line 1116 column 26 in file gun.js
+[warning] 'root' is assigned a value but never used. line 1156 column 22 in file gun.js
+[warning] 'ev' is defined but never used. line 1198 column 21 in file gun.js
+[warning] 'obj_put' is assigned a value but never used. line 1218 column 41 in file gun.js
+[warning] '_soul' is assigned a value but never used. line 1220 column 7 in file gun.js
+[warning] 'module' is defined but never used. line 1223 column 16 in file gun.js
+[error] 'tmp' is already defined. line 1238 column 37 in file gun.js
+[warning] 'map' is assigned a value but never used. line 1342 column 8 in file gun.js
+[warning] 'tmp' is assigned a value but never used. line 1344 column 7 in file gun.js
+[warning] 'obj_has' is assigned a value but never used. line 1351 column 41 in file gun.js
+[warning] 'node_' is assigned a value but never used. line 1353 column 54 in file gun.js
+[warning] 'module' is defined but never used. line 1357 column 16 in file gun.js
+[warning] 'k' is defined but never used. line 1485 column 19 in file gun.js
+[warning] 'opt' is assigned a value but never used. line 1492 column 39 in file gun.js
+[error] 'as' is already defined. line 1511 column 8 in file gun.js
+[warning] 'root' is defined but never used. line 1539 column 57 in file gun.js
+[warning] 'module' is defined but never used. line 1598 column 16 in file gun.js
+[warning] 'tmp' is defined but never used. line 1601 column 32 in file gun.js
+[warning] 'off' is defined but never used. line 1601 column 42 in file gun.js
+[warning] 'cat' is assigned a value but never used. line 1620 column 71 in file gun.js
+[warning] 'cat' is assigned a value but never used. line 1676 column 23 in file gun.js
+[warning] 'obj_has' is assigned a value but never used. line 1732 column 41 in file gun.js
+[warning] 'obj_to' is assigned a value but never used. line 1732 column 79 in file gun.js
+[warning] 'empty' is assigned a value but never used. line 1734 column 7 in file gun.js
+[warning] 'module' is defined but never used. line 1737 column 16 in file gun.js
+[warning] 'opt' is defined but never used. line 1739 column 32 in file gun.js
+[warning] 't' is defined but never used. line 1739 column 37 in file gun.js
+[warning] 'event' is assigned a value but never used. line 1771 column 51 in file gun.js
+[warning] 'module' is defined but never used. line 1774 column 16 in file gun.js
+[warning] 'module' is defined but never used. line 1795 column 16 in file gun.js
+[warning] 'root' is defined but never used. line 1798 column 7 in file gun.js
+[warning] 'u' is defined but never used. line 1798 column 41 in file gun.js
+[warning] 'go' is defined but never used. line 1817 column 39 in file gun.js
+[warning] 'graph' is assigned a value but never used. line 1877 column 8 in file gun.js
+[warning] 'lS' is assigned a value but never used. line 1879 column 8 in file gun.js
+[warning] 'u' is defined but never used. line 1879 column 27 in file gun.js
+[warning] 'peer' is defined but never used. line 2148 column 35 in file gun.js
+[warning] 'module' is defined but never used. line 2177 column 16 in file gun.js
+[warning] 'mesh' is assigned a value but never used. line 2196 column 8 in file gun.js
+[warning] 'wire' is assigned a value but never used. line 2198 column 8 in file gun.js
+[warning] 'noop' is assigned a value but never used. line 2232 column 7 in file gun.js
